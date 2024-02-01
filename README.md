@@ -1,4 +1,0 @@
-# Financial-Tracker
-This is a terminal based financial tracker 
-
-Introducing "FinTrack Terminal," a robust financial tracking solution designed for efficient budgeting, subscription monitoring, and comprehensive financial management through a user-friendly command-line interface. With FinTrack Terminal, users can effortlessly create, customize, and monitor budgets, track subscriptions, and log transactions, all within the familiar environment of their terminal. The tool provides a secure reminder system to keep users informed about upcoming financial obligations. Supporting multiple platforms and prioritizing data privacy, FinTrack Terminal is not only a powerful financial tracker but also a user-friendly and accessible solution for individuals seeking command-driven control over their finances. Join our community, embrace financial wellness, and take command of your economic journey with FinTrack Terminal today!
