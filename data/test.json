@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "userID": "dr497",
+      "password": "123",
+      "userInfo": {
+        "name": "dani",
+        "balance": 31.200000000000003,
+        "bills": [
+          {
+            "bill_description": "netflix",
+            "bill_complete": true,
+            "bill_amount": 20.0,
+            "bill_due": "2023-05-15"
+          }
+        ],
+        "todolist": [
+          {
+            "todo_description": "Pay netflix Bill",
+            "todo_complete": true,
+            "todo_due_by": "2023-05-15"
+          }
+        ]
+      }
+    }
+  ]
+}

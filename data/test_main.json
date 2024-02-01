@@ -1,0 +1,272 @@
+{
+  "users": [
+    {
+      "userID": "max",
+      "password": "compx",
+      "userInfo": {
+        "name": "danx",
+        "balance": 0,
+        "bills": [],
+        "todolist": [
+          {
+            "todo_description": "hw",
+            "todo_complete": false,
+            "todo_due_by": "2057-03-19"
+          },
+          {
+            "todo_description": "prom",
+            "todo_complete": false,
+            "todo_due_by": "2022-05-14"
+          }
+        ]
+      }
+    },
+    {
+      "userID": "mac",
+      "password": "comp",
+      "userInfo": {
+        "name": "dan",
+        "balance": 0,
+        "bills": [],
+        "todolist": [
+          {
+            "todo_description": "hw",
+            "todo_complete": false,
+            "todo_due_by": "2057-03-19"
+          },
+          {
+            "todo_description": "prom",
+            "todo_complete": false,
+            "todo_due_by": "2022-05-14"
+          }
+        ]
+      }
+    },
+    {
+      "userID": "katy123",
+      "password": "ut",
+      "userInfo": {
+        "name": "sanne",
+        "balance": 10,
+        "bills": [
+          {
+            "bill_description": "light",
+            "bill_complete": false,
+            "bill_amount": 100,
+            "bill_due": "2023-07-05"
+          },
+          {
+            "bill_description": "sorority dues",
+            "bill_complete": false,
+            "bill_amount": 500,
+            "bill_due": "2023-08-16"
+          }
+        ],
+        "todolist": [
+          {
+            "todo_description": "Pay light Bill",
+            "todo_complete": false,
+            "todo_due_by": "2023-07-05"
+          },
+          {
+            "todo_description": "Pay sorority dues Bill",
+            "todo_complete": false,
+            "todo_due_by": "2023-08-16"
+          }
+        ]
+      }
+    },
+    {
+      "userID": "katy123",
+      "password": "ut",
+      "userInfo": {
+        "name": "sanne",
+        "balance": 1000,
+        "bills": [
+          {
+            "bill_description": "light",
+            "bill_complete": false,
+            "bill_amount": 100,
+            "bill_due": "2023-07-05"
+          },
+          {
+            "bill_description": "sorority dues",
+            "bill_complete": false,
+            "bill_amount": 500,
+            "bill_due": "2023-08-16"
+          }
+        ],
+        "todolist": [
+          {
+            "todo_description": "Pay light Bill",
+            "todo_complete": false,
+            "todo_due_by": "2023-07-05"
+          },
+          {
+            "todo_description": "Pay sorority dues Bill",
+            "todo_complete": false,
+            "todo_due_by": "2023-08-16"
+          }
+        ]
+      }
+    },
+    {
+      "userID": "katy123",
+      "password": "ut",
+      "userInfo": {
+        "name": "sanne",
+        "balance": 0,
+        "bills": [
+          {
+            "bill_description": "light",
+            "bill_complete": false,
+            "bill_amount": 100,
+            "bill_due": "2023-07-05"
+          },
+          {
+            "bill_description": "sorority dues",
+            "bill_complete": false,
+            "bill_amount": 500,
+            "bill_due": "2023-08-16"
+          }
+        ],
+        "todolist": [
+          {
+            "todo_description": "Pay light Bill",
+            "todo_complete": false,
+            "todo_due_by": "2023-07-05"
+          },
+          {
+            "todo_description": "Pay sorority dues Bill",
+            "todo_complete": false,
+            "todo_due_by": "2023-08-16"
+          }
+        ]
+      }
+    },
+    {
+      "userID": "dr67",
+      "password": "236c",
+      "userInfo": {
+        "name": "danir",
+        "balance": 0,
+        "bills": [],
+        "todolist": [
+          {
+            "todo_description": "wash dishes",
+            "todo_complete": false,
+            "todo_due_by": "2023-05-15"
+          },
+          {
+            "todo_description": "do homework",
+            "todo_complete": false,
+            "todo_due_by": "2023-05-16"
+          }
+        ]
+      }
+    },
+    {
+      "userID": "ednaox",
+      "password": "xochi",
+      "userInfo": {
+        "name": "edna ojeda",
+        "balance": 0,
+        "bills": [],
+        "todolist": [
+          {
+            "todo_description": "do homework",
+            "todo_complete": false,
+            "todo_due_by": "2023-05-16"
+          }
+        ]
+      }
+    },
+    {
+      "userID": "ata35",
+      "password": "axo",
+      "userInfo": {
+        "name": "angela",
+        "balance": 0,
+        "bills": [
+          {
+            "bill_description": "sorority dues",
+            "bill_complete": false,
+            "bill_amount": 500,
+            "bill_due": "2023-08-16"
+          }
+        ],
+        "todolist": []
+      }
+    },
+    {
+      "userID": "cs110",
+      "password": "python",
+      "userInfo": {
+        "name": "Prof Lee",
+        "balance": 0,
+        "bills": [],
+        "todolist": []
+      }
+    },
+    {
+      "userID": "user",
+      "password": "contra",
+      "userInfo": {
+        "name": "nombre",
+        "balance": -100,
+        "bills": [],
+        "todolist": []
+      }
+    },
+    {
+      "userID": "ddc79",
+      "password": "noandsabtit",
+      "userInfo": {
+        "name": "drew",
+        "balance": 235,
+        "bills": [],
+        "todolist": []
+      }
+    },
+    {
+      "userID": "username",
+      "password": "pass",
+      "userInfo": {
+        "name": "name",
+        "balance": 40000,
+        "bills": [],
+        "todolist": []
+      }
+    },
+    {
+      "userID": "taytay13",
+      "password": "13",
+      "userInfo": {
+        "name": "Taylor",
+        "balance": 0,
+        "bills": [],
+        "todolist": []
+      }
+    },
+    {
+      "userID": "pd",
+      "password": "",
+      "userInfo": {
+        "name": "Penny Wise",
+        "balance": 0,
+        "bills": [],
+        "todolist": []
+      }
+    },
+    {
+      "userID": "jh3110",
+      "password": "cs3110",
+      "userInfo": {
+        "name": "Justin Hsu",
+        "balance": 0,
+        "bills": [],
+        "todolist": []
+      }
+    }
+  ]
+}

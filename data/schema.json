@@ -1,0 +1,72 @@
+{
+  "type": "object",
+  "properties": {
+    "users": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "userID": {
+            "type": "string"
+          },
+          "password": {
+            "type": "string"
+          },
+          "userInfo": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "balance": {
+                "type": "integer"
+              },
+              "bills": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "bill_description": {
+                      "type": "string"
+                    },
+                    "bill_complete": {
+                      "type": "boolean"
+                    },
+                    "bill_amount": {
+                      "type": "integer"
+                    },
+                    "bill_due": {
+                      "type": "string"
+                    }
+                  },
+                  "required": ["description", "complete", "amount", "due"]
+                }
+              },
+              "todolist": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "todo_description": {
+                      "type": "string"
+                    },
+                    "todo_complete": {
+                      "type": "boolean"
+                    },
+                    "todo_due_by": {
+                      "type": "string"
+                    }
+                  },
+                  "required": ["description", "completed", "due_by"]
+                }
+              }
+            },
+            "required": ["name", "balance", "bills", "todolist"]
+          }
+        },
+        "required": ["userID", "password", "userInfo"]
+      }
+    }
+  },
+  "required": ["users"]
+}
